@@ -1,0 +1,41 @@
+{
+ "bnb_usd": 542.14,
+ "points": {
+  "window_start": {
+   "block": 134246366,
+   "tick": -215603,
+   "wbnb_per_flapjax": 4.334765078612848e-10,
+   "usd_per_flapjax": 2.3500495397191694e-07
+  },
+  "swap_block": {
+   "block": 135481120,
+   "tick": -215542,
+   "wbnb_per_flapjax": 4.3613546794623884e-10,
+   "usd_per_flapjax": 2.3644648259237392e-07
+  },
+  "window_end": {
+   "block": 135589855,
+   "tick": -215530,
+   "wbnb_per_flapjax": 4.366510344154162e-10,
+   "usd_per_flapjax": 2.3672599179797374e-07
+  },
+  "head": {
+   "block": 135591878,
+   "tick": -215530,
+   "wbnb_per_flapjax": 4.366510344154162e-10,
+   "usd_per_flapjax": 2.3672599179797374e-07
+  },
+  "24h_ago": {
+   "block": 135534278,
+   "tick": -215538,
+   "wbnb_per_flapjax": 4.363254765436104e-10,
+   "usd_per_flapjax": 2.3654949385335295e-07
+  },
+  "7d_ago": {
+   "block": 134246366,
+   "tick": -215603,
+   "wbnb_per_flapjax": 4.334765078612848e-10,
+   "usd_per_flapjax": 2.3500495397191694e-07
+  }
+ }
+}

@@ -1,0 +1,317 @@
+[
+ {
+  "address": "0xd825a982eeee752bd45895b7cc150bddb11e1716",
+  "transfers": 3,
+  "received": 325000.0,
+  "balance_now": 325000.0,
+  "first_block": 135126870,
+  "last_block": 135246263,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0x335aa55c12b260e604d93cb0b0895bb13a4e93e3",
+  "transfers": 1,
+  "received": 300000.0,
+  "balance_now": 6925000.0,
+  "first_block": 134328032,
+  "last_block": 134328032,
+  "retained_pct": 2308.333333333333
+ },
+ {
+  "address": "0x3caf985d1ab6fb0f62c5a50e4c696761577a469c",
+  "transfers": 2,
+  "received": 300000.0,
+  "balance_now": 300000.0,
+  "first_block": 134709832,
+  "last_block": 134710095,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0x8eefb57b8b45e0671aad79226033d24b0456bbd4",
+  "transfers": 2,
+  "received": 300000.0,
+  "balance_now": 300000.0,
+  "first_block": 134709882,
+  "last_block": 134710146,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0xdf7a33c22e70b21978c8471232040ce72f7656d0",
+  "transfers": 2,
+  "received": 300000.0,
+  "balance_now": 300000.0,
+  "first_block": 135126818,
+  "last_block": 135127040,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0x9a90ea1ee894f92b1c1a8b9d9730a73ac051828e",
+  "transfers": 2,
+  "received": 300000.0,
+  "balance_now": 300000.0,
+  "first_block": 135318091,
+  "last_block": 135318126,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c",
+  "transfers": 7,
+  "received": 174999.99999999997,
+  "balance_now": 199999.99999999997,
+  "first_block": 134358724,
+  "last_block": 135509246,
+  "retained_pct": 114.28571428571428
+ },
+ {
+  "address": "0x575a6975ff11d5a72896ff1e3c9f1b2bcf5731cd",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134327449,
+  "last_block": 134327691,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x7d1db846f808eefe9ec5e1931174e74e9cf21ef2",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134327500,
+  "last_block": 134327747,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0xde58c1a7c40a1a83e62a0ea056408b04252f8930",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134397455,
+  "last_block": 134397599,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0xd8ef7b0ead57345265f376940b0644e75c9b482e",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134429167,
+  "last_block": 134429285,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0xdb93a0eb1c994ac5679ada5cbfd76a32f424f5ae",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134814470,
+  "last_block": 134814603,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x74dd9fdbf1e6a71d2c427a572950d4f05cf78a3e",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 134863021,
+  "last_block": 134863167,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x51a6877756bb4780d5822761266c6384320063ce",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 135054638,
+  "last_block": 135054783,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x89ce01cc21c2cb1ea6b0fe720c3422b9e080b7a6",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 135096014,
+  "last_block": 135096202,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x49e8585db38e73f4910564c4768f6f6299ddf579",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 135246181,
+  "last_block": 135246231,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0xc18d159f57457b000b4e1f7354fad536f30de8f5",
+  "transfers": 2,
+  "received": 149999.99999999997,
+  "balance_now": 150000.0,
+  "first_block": 135318723,
+  "last_block": 135318742,
+  "retained_pct": 100.00000000000003
+ },
+ {
+  "address": "0x97cd18b8bbb629b17675d868259ea84c0a2a5a9c",
+  "transfers": 5,
+  "received": 124999.99999999999,
+  "balance_now": 8440000.0,
+  "first_block": 134517255,
+  "last_block": 134974355,
+  "retained_pct": 6752.000000000001
+ },
+ {
+  "address": "0xfb200657f7266157a45dfcc6c09690726daa24e6",
+  "transfers": 4,
+  "received": 99999.99999999999,
+  "balance_now": 6690000.0,
+  "first_block": 134397694,
+  "last_block": 135437745,
+  "retained_pct": 6690.000000000001
+ },
+ {
+  "address": "0xaf7f0f0fe64e4304a6e48f89b714b21746f0c0f6",
+  "transfers": 4,
+  "received": 99999.99999999999,
+  "balance_now": 510000.0,
+  "first_block": 134590662,
+  "last_block": 135413344,
+  "retained_pct": 510.00000000000006
+ },
+ {
+  "address": "0xcab1d8e772eb86328b3f663e6bb3af0a875fae16",
+  "transfers": 1,
+  "received": 99999.99999999999,
+  "balance_now": 99999.99999999999,
+  "first_block": 135390249,
+  "last_block": 135390249,
+  "retained_pct": 100.0
+ },
+ {
+  "address": "0xee0821be193086fe6648b8051e39510ac95b358f",
+  "transfers": 2,
+  "received": 49999.99999999999,
+  "balance_now": 215000.0,
+  "first_block": 134358772,
+  "last_block": 135096356,
+  "retained_pct": 430.00000000000006
+ },
+ {
+  "address": "0xa8fe84bdcae37e978511012dfec736b07b00fc55",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 115000.0,
+  "first_block": 134327925,
+  "last_block": 134327925,
+  "retained_pct": 766.6666666666667
+ },
+ {
+  "address": "0x42c812fc1d6fb10600e99a1518df970f5be67ad6",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 115000.0,
+  "first_block": 134327976,
+  "last_block": 134327976,
+  "retained_pct": 766.6666666666667
+ },
+ {
+  "address": "0x56b40205e0f8cd49eecb253ae82a5308f45a1cf3",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 115000.0,
+  "first_block": 134517309,
+  "last_block": 134517309,
+  "retained_pct": 766.6666666666667
+ },
+ {
+  "address": "0xac958f0925a31a2c3844179ab62f12d480baa76d",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 140000.0,
+  "first_block": 134517364,
+  "last_block": 134517364,
+  "retained_pct": 933.3333333333334
+ },
+ {
+  "address": "0xa4c86f4e9d9ec8990f843aa49470083cece5f908",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 615000.0,
+  "first_block": 134548358,
+  "last_block": 134548358,
+  "retained_pct": 4100.0
+ },
+ {
+  "address": "0xfd5efa5c47fb3be071b2fd38fc88dfa30318c5d2",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 115000.0,
+  "first_block": 134590868,
+  "last_block": 134590868,
+  "retained_pct": 766.6666666666667
+ },
+ {
+  "address": "0xca58696564492ef9c3229c89072365b253bda246",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 6045000.0,
+  "first_block": 134590926,
+  "last_block": 134590926,
+  "retained_pct": 40300.0
+ },
+ {
+  "address": "0x7cb74499c67a328df6dec491652faab2aed00bc3",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 115000.0,
+  "first_block": 134814738,
+  "last_block": 134814738,
+  "retained_pct": 766.6666666666667
+ },
+ {
+  "address": "0xf3d562f6de2a369afef8aaac1147062d5c20bcb6",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 325000.0,
+  "first_block": 134814786,
+  "last_block": 134814786,
+  "retained_pct": 2166.666666666667
+ },
+ {
+  "address": "0x0fc2d96480cc26c0d3f7fe10e56bf5a211f3db8f",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 165000.00000000003,
+  "first_block": 135509265,
+  "last_block": 135509265,
+  "retained_pct": 1100.0000000000002
+ },
+ {
+  "address": "0xb6d00a148ad63fd9ccdd484b687c6012ba1561e1",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 165000.00000000003,
+  "first_block": 135509282,
+  "last_block": 135509282,
+  "retained_pct": 1100.0000000000002
+ },
+ {
+  "address": "0x86545df67ec0f718fb5816cfd859a08f90d79f11",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 315000.0,
+  "first_block": 135550709,
+  "last_block": 135550709,
+  "retained_pct": 2100.0
+ },
+ {
+  "address": "0xda02162f9c851104c4ad070e096b52192c655ee4",
+  "transfers": 1,
+  "received": 15000.0,
+  "balance_now": 165000.00000000003,
+  "first_block": 135580840,
+  "last_block": 135580840,
+  "retained_pct": 1100.0000000000002
+ }
+]

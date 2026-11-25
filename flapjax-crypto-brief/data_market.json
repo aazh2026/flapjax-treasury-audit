@@ -1,0 +1,42 @@
+{
+ "head_block": 135619890,
+ "chain_utc": "2026-11-25T08:06:08Z",
+ "sqrtPriceX96": 1655567264078206569159556,
+ "tick": -215530,
+ "wbnb_per_flapjax": 4.366510344154162e-10,
+ "tick_price_wbnb": 4.366354751811754e-10,
+ "fee_raw": 10000,
+ "fee_pct": 1.0,
+ "mode": 0,
+ "owner": "0x0000000000000000000000000000000000000000000000000000000000000000",
+ "total_supply": 44444444444.0,
+ "pool1_flapjax": 19833021691.25823,
+ "pool1_wbnb": 7.03630745709189,
+ "pool2_flapjax": 5619844348.598993,
+ "treasury_flapjax": 820015089.9033004,
+ "treasury_native_bnb": 0.15719013856344755,
+ "dexscreener": {
+  "priceUsd": "0.0000002360",
+  "liquidity_usd": 8484.85,
+  "vol24_usd": 2.17,
+  "fdv": 10036,
+  "buys24": 3,
+  "sells24": 0,
+  "pairCreatedAt": 1733404401000
+ },
+ "geckoterminal": {
+  "name": "FLAPJAX / WBNB 1%",
+  "price_usd": "0.000000238236301245451",
+  "reserve_usd": "8502.468",
+  "vol24_usd": "2.1718182702",
+  "fdv_usd": "10130.0393986747"
+ },
+ "bnb_usd": 539.115,
+ "usd_per_flapjax": 2.354051224188671e-07,
+ "pool_liquidity_usd": 8462.173793896785,
+ "fdv_usd": 10462.449885178357,
+ "treasury_value_usd": 193.03575262400474,
+ "treasury_pct": 1.845033952300876,
+ "pool1_pct": 44.62429880577726,
+ "pool2_pct": 12.644649784474183
+}

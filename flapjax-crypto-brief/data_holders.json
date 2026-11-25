@@ -1,0 +1,67 @@
+{
+ "captured_utc": "2026-11-25T05:47:01Z",
+ "head_block": 135601348,
+ "supply": 44444444444.0,
+ "holders": [
+  {
+   "address": "0xca93ec685b8623688e6b236f9068034b298c2150",
+   "balance": 19833021691.25823,
+   "pct_of_supply": 44.62429880577726
+  },
+  {
+   "address": "0x740a3b4a91cb8fa47e85d7f9713ca6ec2f8a037e",
+   "balance": 5619844348.598993,
+   "pct_of_supply": 12.644649784474183
+  },
+  {
+   "address": "0x7C34E9e21eE28A49Ff0b84B61774119E6633359f",
+   "balance": 820300089.9033005,
+   "pct_of_supply": 1.845675202300883
+  },
+  {
+   "address": "0x000000000000000000000000000000000000dead",
+   "balance": 1923471159.7037709,
+   "pct_of_supply": 4.327810109376762
+  },
+  {
+   "address": "0x58fab046ce77064bf52c2eff4e163eb84386b8b4",
+   "balance": 2334009348.875,
+   "pct_of_supply": 5.251521035021265
+  },
+  {
+   "address": "0x2ea90ff709b0fb5decd1de944f644eecdc26d33a",
+   "balance": 1175621343.1989408,
+   "pct_of_supply": 2.645148022224068
+  },
+  {
+   "address": "0xf0e319587b54db351f4a20e2da09848fed4d8151",
+   "balance": 621698620.153862,
+   "pct_of_supply": 1.3988218953601779
+  },
+  {
+   "address": "0x5dedb37eaa9145dd1a17d385d8c5e256871d6f16",
+   "balance": 611866236.479141,
+   "pct_of_supply": 1.3766990320918342
+  },
+  {
+   "address": "0x9a937a531a3e4b7930a49548b64c4a3471d049e2",
+   "balance": 610074149.236059,
+   "pct_of_supply": 1.3726668357948593
+  },
+  {
+   "address": "0xdbf2bdecf7dff212880552398b42e0ab997523a7",
+   "balance": 588854986.0270988,
+   "pct_of_supply": 1.3249237185742215
+  },
+  {
+   "address": "0x4492ca070a2caea1502fb807b389b62ab32eb0d3",
+   "balance": 586603504.4172757,
+   "pct_of_supply": 1.3198578849520688
+  },
+  {
+   "address": "0xc1fa91a815f59215aaefff20ea5c2f6718488d9a",
+   "balance": 559775724.9866571,
+   "pct_of_supply": 1.2594953812325735
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "bytecode_bytes": 2901,
+ "selectors": [
+  {
+   "hex": "0x06fdde03",
+   "name": "name()"
+  },
+  {
+   "hex": "0x095ea7b3",
+   "name": "approve(address,uint256)"
+  },
+  {
+   "hex": "0x18160ddd",
+   "name": "totalSupply()"
+  },
+  {
+   "hex": "0x1c8fc2c0",
+   "name": "MODE_TRANSFER_RESTRICTED()"
+  },
+  {
+   "hex": "0x23b872dd",
+   "name": "transferFrom(address,address,uint256)"
+  },
+  {
+   "hex": "0x313ce567",
+   "name": "decimals()"
+  },
+  {
+   "hex": "0x32be6330",
+   "name": "MODE_TRANSFER_CONTROLLED()"
+  },
+  {
+   "hex": "0x39509351",
+   "name": "increaseAllowance(address,uint256)"
+  },
+  {
+   "hex": "0x3af3d783",
+   "name": "MODE_NORMAL()"
+  },
+  {
+   "hex": "0x4e487b71",
+   "name": "Panic(uint256)"
+  },
+  {
+   "hex": "0x70a08231",
+   "name": "balanceOf(address)"
+  },
+  {
+   "hex": "0x715018a6",
+   "name": "renounceOwnership()"
+  },
+  {
+   "hex": "0x72657373",
+   "name": "Error(string) magic"
+  },
+  {
+   "hex": "0x8da5cb5b",
+   "name": "owner()"
+  },
+  {
+   "hex": "0x95d89b41",
+   "name": "symbol()"
+  },
+  {
+   "hex": "0xa457c2d7",
+   "name": "?"
+  },
+  {
+   "hex": "0xa9059cbb",
+   "name": "transfer(address,uint256)"
+  },
+  {
+   "hex": "0xc5c03af3",
+   "name": "_mode()"
+  },
+  {
+   "hex": "0xd72dd3b4",
+   "name": "setMode(uint256)"
+  },
+  {
+   "hex": "0xdd62ed3e",
+   "name": "allowance(address,address)"
+  },
+  {
+   "hex": "0xf2fde38b",
+   "name": "transferOwnership(address)"
+  }
+ ],
+ "mode_system": {
+  "_mode()": "0xc5c03af3",
+  "setMode(uint256)": "0xd72dd3b4",
+  "MODE_NORMAL()": "0x3af3d783 -> 0",
+  "MODE_TRANSFER_RESTRICTED()": "0x1c8fc2c0 -> 1",
+  "MODE_TRANSFER_CONTROLLED()": "0x32be6330 -> 2",
+  "mode_at_deploy_block": 1,
+  "mode_switch_block": 44607858,
+  "mode_at_head": 0,
+  "owner_at_deploy": "0x5c952063c7fc8610ffdb798152d69f0b9550762b",
+  "owner_at_switch_block": "0x0000000000000000000000000000000000000000",
+  "setMode_guarded_by": "Ownable: caller is not the owner (revert string observed via eth_call from non-owner)",
+  "restricted_transfer_revert": "Token: Transfer is restricted"
+ },
+ "transfer_restriction": "Under MODE_TRANSFER_RESTRICTED, transfer() from a non-owner holder reverts with 'Token: Transfer is restricted' (simulated via eth_call at block 44600000)."
+}
