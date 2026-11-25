@@ -1,0 +1,105 @@
+{
+ "0x335aa55c12b260e604d93cb0b0895bb13a4e93e3": {
+  "first_block": 123994439,
+  "utc": "2026-09-25T18:09:54Z",
+  "balance_before": 0,
+  "balance_at": 770320000000000,
+  "inbound_txs_in_block": 1,
+  "funder": "0xc76c41cd1ab2c6a730865cd58cfedfada6e631ab",
+  "funding_tx": "0x13040ac5c98df487cbbc466a17923ccb412095cb9422c54e7672fa7ac26db8e4",
+  "value_wei": 770320000000000,
+  "kind": "native BNB"
+ },
+ "0x42c812fc1d6fb10600e99a1518df970f5be67ad6": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0x575a6975ff11d5a72896ff1e3c9f1b2bcf5731cd": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0x7d1db846f808eefe9ec5e1931174e74e9cf21ef2": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0xa15c58e7008fc7a0331cfcc86a28af99fd21b93c": {
+  "first_block": 132005597,
+  "utc": "2026-11-06T12:04:40Z",
+  "funder": "0xa5a5491bca93dd4c076e4906e79e7673f4a5a142",
+  "funding_tx": "0x9a2aad5e93baea6dbee144b4a9615172a6dd82eddd26007186436a39caa27639",
+  "funding_block": 132005597,
+  "value": 0.000193009353538407,
+  "kind": "native BNB",
+  "never_funded_with_bnb": false,
+  "search_method": "first non-zero native+WBNB balance over full chain history, then inbound funding tx"
+ },
+ "0xa8fe84bdcae37e978511012dfec736b07b00fc55": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0xd8ef7b0ead57345265f376940b0644e75c9b482e": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0xde58c1a7c40a1a83e62a0ea056408b04252f8930": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0xee0821be193086fe6648b8051e39510ac95b358f": {
+  "first_block": null,
+  "never_funded_with_bnb": true,
+  "funder": null,
+  "funding_tx": null,
+  "kind": "no BNB/WBNB balance observed at any block up to chain head",
+  "balance_native_now": 0.0,
+  "balance_wbnb_now": 0.0,
+  "search_method": "binary search over full chain history for first non-zero native+WBNB balance"
+ },
+ "0xfb200657f7266157a45dfcc6c09690726daa24e6": {
+  "first_block": 126835408,
+  "utc": "2026-10-10T13:25:31Z",
+  "funder": "0x7c34e9e21ee28a49ff0b84b61774119e6633359f",
+  "funding_tx": "0xa3d7042983f4f2352b9b8f324414688db10887e2b2b2a125deca9a8bec6624e7",
+  "funding_block": 126835408,
+  "value": 0.0005,
+  "kind": "native BNB",
+  "never_funded_with_bnb": false,
+  "search_method": "first non-zero native+WBNB balance over full chain history, then inbound funding tx"
+ }
+}

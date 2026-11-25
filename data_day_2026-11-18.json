@@ -1,9 +1,9 @@
 {
  "day": "2026-11-18",
  "b0": 134251698,
- "b1": 134443555,
+ "b1": 134443554,
  "ts_b0": 1794978000,
- "ts_b1": 1795064400,
+ "ts_b1": 1795064399,
  "rows": [
   {
    "block": 134327449,
@@ -117,5 +117,12 @@
    "to": "0xd8ef7b0ead57345265f376940b0644e75c9b482e",
    "amount": 49999.99999999999
   }
- ]
+ ],
+ "incoming": 0,
+ "balance_start": 819896348.1886601,
+ "balance_end": 818891348.1886601,
+ "balance_delta": 1005000.0,
+ "sum_transfers": 1005000.0,
+ "complete": true,
+ "source": "archive node https://bsc-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3"
 }
